@@ -1,0 +1,38 @@
+h1, h2, p, td, li, th {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+main {
+    background-color: green;
+    padding-top: 1px;
+    margin-top: 15px;
+    padding-bottom: 10px
+}
+
+body {
+    background-color: greenyellow;
+}
+
+header {
+    background-color: green;
+    padding: 30px;
+    text-align: center;
+}
+
+#TitleName {
+    color: white;
+    margin: 0;
+}
+
+.PersonalSections {
+    margin-left: 10px;
+
+}
+
+footer {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: green;
+    text-align: center;
+}
