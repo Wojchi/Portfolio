@@ -24,9 +24,8 @@ header {
     color: white;
 }
 
-.PersonalSections {
-    margin-left: 10px;
-
+section {
+    /* margin-left: 10px; */
 }
 
 footer {
@@ -34,4 +33,39 @@ footer {
     padding: 10px;
     background-color: #1b5c85;
     text-align: center;
+}
+
+.InBlueBackground {
+    color: white;
+}
+
+.Socials {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.PersonalSection {
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom-style: solid;
+    border-width: 2px;
+}
+
+#PersonalTitle {
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 200%;
+}
+
+#ExperienceTitle {
+    text-align: center;
+    font-size: 200%;
+}
+
+.ExperienceSections {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
