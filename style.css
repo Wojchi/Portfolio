@@ -1,21 +1,16 @@
 h1, h2, p, td, li, th {
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    color: black;
 }
 
-main {
-    background-color: green;
-    padding-top: 1px;
-    margin-top: 15px;
-    padding-bottom: 10px
-}
+
 
 body {
-    background-color: greenyellow;
+    background-color: white;
 }
 
 header {
-    background-color: green;
+    background-color: #1b5c85;
     padding: 30px;
     text-align: center;
 }
@@ -23,6 +18,10 @@ header {
 #TitleName {
     color: white;
     margin: 0;
+}
+
+#TitleFooter {
+    color: white;
 }
 
 .PersonalSections {
@@ -33,6 +32,6 @@ header {
 footer {
     margin-top: 10px;
     padding: 10px;
-    background-color: green;
+    background-color: #1b5c85;
     text-align: center;
 }
